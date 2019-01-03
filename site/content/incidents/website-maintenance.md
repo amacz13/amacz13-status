@@ -20,7 +20,7 @@ severity = "under-maintenance"
 # Example:
 # affectedsystems = ["API", "CDN"]
 #
-affectedsystems = ["API", "CDN"]
+affectedsystems = ["Site Web"]
 
 # resolved: marks an incident as resolved.
 # It can be either true or false.
