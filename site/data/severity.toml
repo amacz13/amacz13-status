@@ -1,6 +1,6 @@
 [descriptions]
   ok = "Aucun problème"
-  under-maintenance = "Maintenance n cours"
+  under-maintenance = "Maintenance en cours"
   degraded-performance = "Performances dégradées"
   partial-outage = "Incident"
   major-outage = "Incident majeur"
