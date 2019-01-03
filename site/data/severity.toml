@@ -1,9 +1,9 @@
 [descriptions]
-  ok = "Up and running"
-  under-maintenance = "Under maintenance"
-  degraded-performance = "Degraded performance"
-  partial-outage = "Partial outage"
-  major-outage = "Major outage"
+  ok = "Aucun problème"
+  under-maintenance = "Maintenance n cours"
+  degraded-performance = "Performances dégradées"
+  partial-outage = "Incident"
+  major-outage = "Incident majeur"
 
 [alerts]
   ok = "ok"
