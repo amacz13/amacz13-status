@@ -13,4 +13,4 @@ title = "StatusKit"
 # You'll be able to change their status every time
 # you open or update an incident.
 # Replace these examples with your own system names.
-systems = ["Site Web", "GitBucket", "Serveur Mail", "Cloud", "Serveur Collaboratif", "Azure Web 1", "Azure Web 2", "Azure SQL 1","Serveur Secondaire"]
+systems = ["Site Web", "GitBucket", "Serveur Mail", "Cloud", "Serveur Collaboratif", "Azure Web 1", "Azure Web 2", "Azure Web 3", "Azure Web 4", "Azure SQL 1","Serveur Secondaire"]
